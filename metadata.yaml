@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/755
     wikipedia: http://en.wikipedia.org/wiki/Anatole_France
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23219#Putois1907
 gutenberg_issued: '2007-10-27'
 gutenberg_type: Text
 identifiers:
